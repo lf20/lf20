@@ -1,10 +1,10 @@
 {
   "name": "Luke Fryer - Web Developer",
-  "short_name": "Gridsome",
+  "short_name": "Luke Fryer - Web Developer",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#b65474",
-  "background_color": "#ffffff",
+  "background_color": "#2c2c2c",
   "icons": [
     {
       "src": "assets\\static\\logo-512x512.svg",
